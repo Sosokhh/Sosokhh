@@ -1,16 +1,14 @@
-### Hi there 👋
+# Soso Khurtsidze - Front-End Developer
 
-<!--
-**Sosokhh/Sosokhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm Soso Khurtsidze, a front-end developer based in Tbilisi, Georgia. I specialize in Angular development and bring web applications to life with HTML, CSS, JavaScript, TypeScript
 
-Here are some ideas to get you started:
+## 💼 Skills
+- Front-End: HTML, CSS, SCSS, JavaScript, TypeScript
+- Frameworks: Angular
+- Databases: PostgreSQL, MsSQL, Oracle
+- Version Control: Git, GitHub
+- Package Managers: Yarn, npm
+- UI Libraries: Angular Material, PrimeNG, Bootstrap, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Let's connect! Reach out via email at sosokhurtsidzee@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/sosokhurtsidze). Excited to collaborate on exceptional web interfaces!
