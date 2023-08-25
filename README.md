@@ -11,4 +11,4 @@
 - UI Libraries: Angular Material, PrimeNG, Bootstrap, Tailwind CSS
 
 ## Contact
-Let's connect! Reach out via email at sosokhurtsidzee@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/sosokhurtsidze). Excited to collaborate on exceptional web interfaces!
+Let's connect! Reach out via email at sosokhurtsidzee@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/soso-khurtsidze-6a529728a/). Excited to collaborate on exceptional web interfaces!
